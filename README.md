@@ -11,7 +11,7 @@ Desenvolvedor Full-stack em formação e Criador Audiovisual. Focado em utilizar
 O **StarBridge** é uma plataforma digital focada em conectar jovens da rede pública a oportunidades de aprendizado e carreira, utilizando gamificação e tecnologia para gerar impacto social.
 
 - 🌐 **Acesse o site:** [Link do site oficial aqui](https://starbridge-starbridge012.wasmer.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcARUrDNleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacPixHzAT7McsDrCEVv7QHbogD8sYIHNrsxpfXzulwvHb9ketiR3YXtlA075w_aem_P6ySWxIqnkP5vbiScICyxw)
-- 📂 **Repositório do projeto:** [Ver código no GitHub](LINK_DO_REPO)
+- 📂 **Repositório do projeto:** [Ver Repositório no GitHub](https://github.com/Nathangame12/StarBridge-Project.git)
 
 ---
 
