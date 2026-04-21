@@ -1,7 +1,30 @@
 # Olá Mundo!, eu sou o Nathan!🎩
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 Desenvolvedor Full-stack em formação e Criador Audiovisual. Focado em utilizar a tecnologia e a arte como ferramentas de transformação social através de projetos como o StarBridge.
+
+<details>
+  <summary>🇺🇸 <b>English Version (Click to expand)</b></summary>
+  <br>
+  Full-stack Developer in training and Audiovisual Creator. Committed to leveraging technology and art as tools for social change through projects like StarBridge.
+
+  ---
+  ## 💻 Programming & Web
+  ### 🚀 [StarBridge]
+  **StarBridge** is a digital platform designed to connect public school students with career and learning opportunities, using gamification to drive social impact.
+  - 🌐 **Live Demo:** [Official Website](https://starbridge-starbridge012.wasmer.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcARUrDNleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacPixHzAT7McsDrCEVv7QHbogD8sYIHNrsxpfXzulwvHb9ketiR3YXtlA075w_aem_P6ySWxIqnkP5vbiScICyxw)
+  - 📂 **Project Repository:** [Check on GitHub](https://github.com/Nathangame12/StarBridge-Project.git)
+
+  ## 🎬 Video Editing & Design
+  *Expert in visual content creation and digital identity.*
+  - 📺 **Portfolio:** [YouTube Channel](https://youtube.com/@nathangame12?si=tj4NpdMJyfT9MENS)
+  - 🛠️ **Tools:** YouCut, IbisPaint, AudioVisualizer.
+
+  ## 🎵 Music Production
+  *Sound design for games, videos, and original projects.*
+  - 🎧 **Listen now:** [SoundCloud](https://on.soundcloud.com/4qmeKYXSMqRh5n53ss)
+  - 🎹 **Genres:** Electronic, Indie, and Game Soundtracks.
+</details>
 
 ---
 
